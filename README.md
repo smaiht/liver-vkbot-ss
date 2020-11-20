@@ -6,13 +6,13 @@ Inspired by [koa-glitch-keepalive](https://github.com/matzkoh/koa-glitch-keepali
 
 ## Installation
 
-`npm i --save express express-glitch-keepalive`
+`npm i --save express liver-vkbot-ss`
 
 ## Usage
 
 ```js
 const express = require('express');
-const keepalive = require('express-glitch-keepalive');
+const keepalive = require('liver-vkbot-ss');
 
 const app = express();
 
